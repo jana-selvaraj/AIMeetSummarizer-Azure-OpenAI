@@ -1,6 +1,6 @@
 # AIMeetSummarizer-Azure-OpenAI
 
-MeetSummAIzer - AI-Powered Meeting Transcript Summarizer
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MeetSummAIzer is an AI-powered tool designed to simplify the process of summarizing office meeting transcripts. Whether your transcripts are from Microsoft Teams, Skype, or any other platform, MeetSummAIzer can process .docx and .txt files, chunk them into manageable pieces, and generate concise, comprehensive summaries using Azure OpenAI.
 
 Key Features:
