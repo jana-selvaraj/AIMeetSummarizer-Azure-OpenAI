@@ -4,10 +4,10 @@ AIMeetSummarizer is an AI-driven tool designed to streamline the summarization o
 
 ## Features:
 
-# Versatile Format Support: Compatible with .docx and .txt files.
-# AI-Driven Summarization: Utilizes Azure OpenAI for precise and context-aware summaries.
-# Smart Chunking: Divides lengthy transcripts into smaller, manageable sections for improved processing.
-# Flexible Prompts: Supports JSON-based prompts to customize the summarization process.
+Versatile Format Support: Compatible with .docx and .txt files.
+AI-Driven Summarization: Utilizes Azure OpenAI for precise and context-aware summaries.
+Smart Chunking: Divides lengthy transcripts into smaller, manageable sections for improved processing.
+Flexible Prompts: Supports JSON-based prompts to customize the summarization process.
 
 
 
