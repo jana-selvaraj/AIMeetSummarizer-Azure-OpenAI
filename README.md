@@ -40,9 +40,10 @@ python MeetSummarizer.py
 4. Check the <tanscript_filename>_Summary.txt file for the generated summary.
 # Sample Input and Output Files
 
-See the Samples directory for example input files and their corresponding outputs.
+See the <b> Samples </b> directory for example input files and their corresponding outputs.
 
-License
+# License
+
 This project is licensed undet the MIT License. See the LICENSE.md file for details.
 
 
