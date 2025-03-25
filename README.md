@@ -35,10 +35,11 @@ FILE_PATH=path_to_your_transcript_file
 2. Update the DOC_PATH in the .env file.
 3. Run the script
 ```
-python MeetSummAIzer.py
+python MeetSummarizer.py
 ```
-Check the <tanscript_filename>_Summary.txt file for the generated summary.
-Sample Input and Output
+4. Check the <tanscript_filename>_Summary.txt file for the generated summary.
+# Sample Input and Output Files
+
 See the Samples directory for example input files and their corresponding outputs.
 
 License
