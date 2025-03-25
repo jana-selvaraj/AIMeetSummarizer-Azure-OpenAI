@@ -12,9 +12,11 @@ AIMeetSummarizer is an AI-driven tool designed to streamline the summarization o
 
 **Flexible Prompts:** Supports JSON-based prompts to customize the summarization process. <br>
 
-Installation
-Clone the repository:
-git clone https://github.com/navindevan/MeetSummAIzer-AzureOpenAI.git
+# Installation
+
+# Clone the repository:
+
+git clone (https://github.com/jana-selvaraj/AIMeetSummarizer-Azure-OpenAI/)
 Install dependencies:
 pip install -r requirements.txt
 Set up your .env file with the following variables:
