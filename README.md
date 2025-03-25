@@ -23,18 +23,20 @@ AIMeetSummarizer is an AI-driven tool designed to streamline the summarization o
 ```   
 pip install -r requirements.txt
 ```
-3. Set up your .env file with the following variables:
+3. Set up your .env file with the following variables
 ```
 AZURE_OPENAI_API_KEY=your_api_key
 AZURE_OPENAI_ENDPOINT=your_endpoint
 AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment_name
 FILE_PATH=path_to_your_transcript_file
 ```
-Usage
-Place your transcript file in the project directory.
-Update the DOC_PATH in the .env file.
-Run the script:
+# Usage
+1. Place your transcript file in the project directory.
+2. Update the DOC_PATH in the .env file.
+3. Run the script
+```
 python MeetSummAIzer.py
+```
 Check the <tanscript_filename>_Summary.txt file for the generated summary.
 Sample Input and Output
 See the Samples directory for example input files and their corresponding outputs.
