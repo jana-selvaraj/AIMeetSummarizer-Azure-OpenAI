@@ -44,7 +44,7 @@ See the <b> Samples </b> directory for example input files and their correspondi
 
 # License
 
-This project is licensed undet the MIT License. See the LICENSE.md file for details.
+This project is licensed undet the MIT License. See the <a href="https://github.com/jana-selvaraj/AIMeetSummarizer-Azure-OpenAI/blob/main/LICENSE"></a>LICENSE.md file for details.
 
 
 
