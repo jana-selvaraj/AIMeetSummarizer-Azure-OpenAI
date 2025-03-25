@@ -15,8 +15,9 @@ AIMeetSummarizer is an AI-driven tool designed to streamline the summarization o
 # Installation
 
 Clone the repository:
-
+```
 1) git clone (https://github.com/jana-selvaraj/AIMeetSummarizer-Azure-OpenAI.git/)
+```
 
 2) Install dependencies:
    
