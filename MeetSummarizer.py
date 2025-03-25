@@ -16,9 +16,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 def initialize_azure_openai():
     try:
         client = AzureOpenAI(
-            api_key=os.getenv("AZ_OPENAI_API_KEY"),
+            api_key=os.getenv("AZURE_OPENAI_API_KEY"),
             api_version="2024-02-01",
-            azure_endpoint=os.getenv("AZ_OPENAI_ENDPOINT")
+            azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
         )
         return client
     except Exception as e:
@@ -93,9 +93,9 @@ def main():
     start_time = time.time()
 
     # Load environment variables
-    api_key = os.getenv("AZ_OPENAI_API_KEY")
-    endpoint = os.getenv("AZ_OPENAI_ENDPOINT")
-    deployment_name = os.getenv("AZ_OPENAI_DEPLOYMENT_NAME")
+    api_key = os.getenv("AZURE_OPENAI_API_KEY")
+    endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
+    deployment_name = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
     file_path = os.getenv('FILE_PATH')
 
     if not all([api_key, endpoint, deployment_name, file_path]):
